@@ -1,0 +1,9 @@
+{
+  "domain": "miguel.is-a.dev",
+  "owner": {
+    "email": "peguerom919@gmail.com"
+  },
+  "records": {
+    "CNAME": "https://kironewspace.github.io/portafolio/"
+  }
+}
